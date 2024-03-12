@@ -5,7 +5,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 Gary Lloyd
 John Smith
 
-#Introduction
+# Introduction
 We present aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using a PCASP (Bloggs et al 2004).
@@ -20,3 +20,6 @@ We simulate the evolution of particle sizes as they are transported away from th
 # Methodology
 We compared our measurements with a model simulation.
 The model is detailed in Smith et al 2002.
+
+# Results
+The simulations suggest that coagulation is the dominant growth mechanism. 
