@@ -23,3 +23,6 @@ The model is detailed in Smith et al 2002.
 
 # Results
 The simulations suggest that coagulation is the dominant growth mechanism. 
+
+# Figures
+Figures go in their own section in a draft paper.
