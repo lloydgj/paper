@@ -26,3 +26,6 @@ The simulations suggest that coagulation is the dominant growth mechanism.
 
 # Figures
 Figures go in their own section in a draft paper.
+
+# Conclusions
+We have made fantastic insight into the BBOA aging process. Nonetheless questions remain unanswered, so we should definitely get some more funding.
